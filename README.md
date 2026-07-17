@@ -23,7 +23,7 @@ sudo apt update && sudo apt install git python3 python3-pip -y
 
 # 2. Repository ko clone karein
 
-git clone git@github.com:TheRedAsh/phone-tracker.git
+git clone git@github.com:TheRedAsh/phone-number-details-tracker.git
 
 # 3. Directory me dakhil hon
 cd phone-number-details-tracker
