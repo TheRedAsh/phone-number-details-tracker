@@ -26,3 +26,8 @@ git clone [https://github.com/TheRedAsh/phone-number-details-tracker.git](https:
 
 # 3. Directory me dakhil hon
 cd phone-number-details-tracker
+💻 How to Run
+Workspace setup karne ke baad tool ko execute karne ki standard command:
+
+Bash
+python3 phone_tracker.py
